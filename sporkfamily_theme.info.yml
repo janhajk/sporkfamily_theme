@@ -1,0 +1,17 @@
+name: Sporkfamily
+type: theme
+description: This is the Sporkfamily sub theme of Bootstrap Theme
+core: 8.x
+# Defines the base theme
+base theme: bootstrap
+# Defines libraries group in which we can add css/js.
+libraries:
+  - sporkfamily_theme/global-styling
+# Regions
+regions:
+  header: Header
+  featured: Featured
+  content: Content
+  sidebar_first: First sidebar
+  sidebar_second: Second sidebar
+  footer: Footer
