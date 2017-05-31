@@ -1,4 +1,8 @@
-.field--name-field-paragraphtitel {
+.content {
+   margin-top: 20px;
+}
+
+a .field--name-field-paragraphtitel {
    margin-top: 15px;
    margin-bottom: 5px;
    font-weight: bold;
