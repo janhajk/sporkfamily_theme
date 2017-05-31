@@ -13,4 +13,14 @@
 }
 .main-container {
    background-color: #f2d98a;
+   padding-bottom: 50px;
+}
+
+h1 {
+   line-height: 50px;
+   font-family: "Open Sans", Helvetica, Arial, sans-serif;
+   font-size: 2.6em;
+   color: #333;
+   font-weight: bolder;
+   text-transform: uppercase;
 }
