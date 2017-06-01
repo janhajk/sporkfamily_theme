@@ -1,0 +1,48 @@
+body {
+   background: url(../images/bg01.jpg);
+   font-family: "Open Sans","HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.content {
+   margin-top: 20px;
+}
+
+.field--name-field-paragraphtitel {
+   margin-top: 15px;
+   margin-bottom: 5px;
+   font-weight: bold;
+}
+
+.author {
+   text-align: right;
+}
+
+.main-container {
+   background-color: #f2d98a;
+   padding-bottom: 50px;
+}
+
+
+
+h1 {
+   line-height: 50px;
+   font-family: "Open Sans", Helvetica, Arial, sans-serif;
+   font-size: 2.6em;
+   color: #333;
+   font-weight: bolder;
+   text-transform: uppercase;
+}
+
+
+.block h2 {
+   font-size: 1.0em;
+   line-height: 1.2em;
+   margin-bottom: 5px;
+   text-transform: uppercase;
+   font-weight: bold;
+   color: #555;
+   letter-spacing: 0px;
+}
+
+.block {
+   color: #777;   
+}
