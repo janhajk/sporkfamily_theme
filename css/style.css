@@ -5,8 +5,10 @@ body {
    background-color: #619833;
    color: #234D00;
 }
+
 .content {
    margin-top: 20px;
+   background: #F5F5F5 url(../images/bkg_smoky_cords.jpg) top left repeat;
 }
 
 .field--name-field-paragraphtitel {
