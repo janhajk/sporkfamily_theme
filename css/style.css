@@ -33,7 +33,7 @@ h1 {
 }
 
 
-.block h2 {
+h2.block-title {
    font-size: 1.0em;
    line-height: 1.2em;
    margin-bottom: 5px;
