@@ -8,7 +8,6 @@ body {
 
 .content {
    margin-top: 20px;
-   background: #F5F5F5 url(../images/bkg_smoky_cords.jpg) top left repeat;
 }
 
 .field--name-field-paragraphtitel {
@@ -23,7 +22,8 @@ body {
 
 .main-container {
    padding-bottom: 50px;
-   background-color: white;
+   background: #F5F5F5 url(../images/bkg_smoky_cords.jpg) top left repeat;
+
 }
 
 
