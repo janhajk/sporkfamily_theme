@@ -1,5 +1,4 @@
 body {
-   background: url(../images/bg01.jpg);
    font-family: "Open Sans","HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 .content {
@@ -17,7 +16,6 @@ body {
 }
 
 .main-container {
-   background-color: #f2d98a;
    padding-bottom: 50px;
 }
 
@@ -44,5 +42,5 @@ h2.block-title {
 }
 
 .block {
-   color: #777;   
+   color: #777;
 }
