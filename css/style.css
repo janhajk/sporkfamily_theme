@@ -2,8 +2,6 @@
 
 body {
    font-family: "Open Sans","HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
-   background-color: #619833;
-   color: #234D00;
 }
 
 .content {
@@ -22,7 +20,7 @@ body {
 
 .main-container {
    padding-bottom: 50px;
-   background: #F5F5F5 url(../images/bkg_smoky_cords.jpg) top left repeat;
+   /* background: #F5F5F5 url(../images/bkg_smoky_cords.jpg) top left repeat; */
 
 }
 

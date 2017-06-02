@@ -9,9 +9,13 @@ libraries:
   - sporkfamily_theme/global-styling
 # Regions
 regions:
-  header: Header
-  featured: Featured
-  content: Content
-  sidebar_first: First sidebar
-  sidebar_second: Second sidebar
-  footer: Footer
+  navigation: 'Navigation'
+  header: 'Top Bar'
+  highlighted: 'Highlighted'
+  help: 'Help'
+  content: 'Content'
+  sidebar_first: 'Primary'
+  sidebar_second: 'Secondary'
+  footer: 'Footer'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
