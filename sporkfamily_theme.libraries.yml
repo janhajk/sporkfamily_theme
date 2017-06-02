@@ -2,6 +2,3 @@ global-styling:
   css:
     theme:
       css/style.css: {}
-  dependencies:
-    - core/jquery
-    - core/jquery.once
