@@ -7,9 +7,11 @@ base theme: bootstrap
 # Defines libraries group in which we can add css/js.
 libraries:
   - sporkfamily_theme/global-styling
+
 # Regions
 regions:
   navigation: 'Navigation'
+  navigation_collapsible: 'Navigation (Collapsible)'
   header: 'Top Bar'
   highlighted: 'Highlighted'
   help: 'Help'
