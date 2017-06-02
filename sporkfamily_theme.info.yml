@@ -7,7 +7,6 @@ base theme: bootstrap
 # Defines libraries group in which we can add css/js.
 libraries:
   - sporkfamily_theme/global-styling
-  - sporkfamily_theme/bootstrap-scripts
 
 # Regions
 regions:
